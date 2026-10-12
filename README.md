@@ -85,7 +85,7 @@ Jika proyek menggunakan data awal dari seeder, jalankan seeder yang tersedia ses
 
 ## Pengujian
 
-Pastikan operasi Create, Read, Update, dan Delete berjalan. Uji pula validasi input, pencarian, dan pagination.
+Pastikan operasi Create, Read, Update, dan Delete berjalan.
 
 ## Keamanan
 
