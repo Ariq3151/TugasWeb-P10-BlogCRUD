@@ -1,4 +1,4 @@
-# Tugas Rutin 10 — Laravel Blog
+# Tugas Rutin 10 — Blog CRUD
 
 ## Identitas Proyek
 
