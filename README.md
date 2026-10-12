@@ -81,19 +81,7 @@ Jika proyek menggunakan data awal dari seeder, jalankan seeder yang tersedia ses
 
 ## Screenshot
 
-Tambahkan screenshot yang memperlihatkan:
-
-1. Halaman daftar post.
-2. Form tambah post.
-3. Form edit post.
-4. Validasi ketika input tidak sesuai.
-5. Fitur pencarian dan pagination.
-
-Simpan gambar di folder `screenshots/` dan masukkan menggunakan Markdown, misalnya:
-
-```md
-![Daftar post](screenshots/posts-index.png)
-```
+![Daftar post](Screenshot_TR10.png)
 
 ## Pengujian
 
